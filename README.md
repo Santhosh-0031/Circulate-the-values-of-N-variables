@@ -28,7 +28,7 @@ And run the program we get the output
 ```
 
 ## Output:
-![Alt text](<image.png (2).png>)
+![output](<image.png (2).png>)
 
 ## Result:
 Thus the circulates the n variable are successfully executed.
