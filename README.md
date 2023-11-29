@@ -28,7 +28,8 @@ And run the program we get the output
 ```
 
 ## Output:
-![Alt text](<image.png (2).png>)
+![image png (2)](https://github.com/Santhosh-0031/Circulate-the-values-of-N-variables/assets/145551108/25791240-0152-45f0-80bb-b3007dcd1e9f)
+
 
 ## Result:
 Thus the circulates the n variable are successfully executed.
